@@ -1,0 +1,3 @@
+header{display: flex;}
+header button{margin-left:25px;}
+.hideBtn{display: none;transition: .5s;}
